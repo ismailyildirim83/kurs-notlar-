@@ -1,0 +1,2 @@
+# kurs-notlar-
+eğitim çalışmaları
